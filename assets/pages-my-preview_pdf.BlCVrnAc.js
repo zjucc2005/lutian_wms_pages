@@ -1,1 +1,0 @@
-import{d as r,ar as o,o as s}from"./index-DGWOUQdM.js";import{_ as t}from"./_plugin-vue_export-helper.BCo6x5W8.js";const u=t({props:{url:String},data:()=>({pdf_url:""}),onLoad(r){r.url&&(this.pdf_url=r.url)},methods:{}},[["render",function(t,u,e,l,n,p){const a=o;return s(),r(a,{src:n.pdf_url},null,8,["src"])}]]);export{u as default};
