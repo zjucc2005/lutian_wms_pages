@@ -1,1 +1,0 @@
-import"./index-CYlR6-L2.js";function r(r,t){return"string"==typeof r?t:r}export{r};
