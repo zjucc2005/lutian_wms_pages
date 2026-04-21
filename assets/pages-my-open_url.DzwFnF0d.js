@@ -1,0 +1,1 @@
+import{d as r,as as s,o}from"./index-oEERMktP.js";import{_ as t}from"./_plugin-vue_export-helper.BCo6x5W8.js";const u=t({props:{url:String},data:()=>({url:""}),onLoad(r){r.url&&(this.url=r.url)},methods:{}},[["render",function(t,u,e,l,n,a){const p=s;return o(),r(p,{src:n.url},null,8,["src"])}]]);export{u as default};
