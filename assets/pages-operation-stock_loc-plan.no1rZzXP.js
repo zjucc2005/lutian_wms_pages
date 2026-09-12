@@ -1,0 +1,1 @@
+import{d as a,w as s,i as e,o as r,e as n}from"./index-DZ5NNMZP.js";import{_ as o}from"./_plugin-vue_export-helper.BCo6x5W8.js";const t=o({},[["render",function(o,t){const c=e;return r(),a(c,{class:"plan-container"},{default:s((()=>[n(c,{class:"plan-border"},{default:s((()=>[n(c,{class:"plan-area-1"})])),_:1})])),_:1})}],["__scopeId","data-v-dbfc7c3c"]]);export{t as default};
